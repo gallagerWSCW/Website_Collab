@@ -1,0 +1,9 @@
+h1.newt-t{
+    color: rgba(2, 24, 44, 0.79);
+}
+.motions{
+    background-image: url(Newton\ laws.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
