@@ -1,5 +1,8 @@
 h1.newt-t{
     color: rgba(13, 115, 211, 0.79);
+=======
+.newt-t{
+    color: rgba(2, 24, 44, 0.79);
 }
 .motions{
     .navigation {
@@ -36,8 +39,6 @@ h1.newt-t{
     background-position: center;
     background-repeat: no-repeat;
 }
-
-
 .center {
     display: block;
     margin-left: auto;
